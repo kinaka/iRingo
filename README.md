@@ -397,6 +397,7 @@ macOS 12.0.1, iOS 15.1, iOS 14.8 测试通过
 
 ## 安装链接
   * Loon:
+    * [Apple_TV.plugin](./plugin/Apple_TV.plugin?raw=true " Enable Apple TV app") 
   * Quantumult X:
     * [Apple_TV.qxrewrite](./qxrewrite/Apple_TV.qxrewrite?raw=true " Enable Apple TV app")
   * Surge: 
